@@ -9,6 +9,9 @@ h1{
     font-size: 35px;
     color: rgb(167, 236, 149);
 }
+h3{
+    color: indianred;
+}
 span{
     color: brown;
 }
@@ -20,11 +23,20 @@ span{
 .fix-width img{
     width: 100%;
 }
-.add-link{
+.add-button{
     text-decoration: none;
     background-image: linear-gradient(yellow, tomato);
     padding: 10px 25px;
     border-radius: 20px;
     color: white;
+       
+}
+.add-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 150px;
+    margin-bottom: 100px;
     
+
 }
