@@ -40,10 +40,14 @@ span{
 }
 .fix-line{
     display: flex;
+    margin-bottom: 120px;
+    margin-top: 100px;
 }
 .header-line{
     text-align: center;
     margin-bottom: 100px;
+    margin: 0;
+    padding: 0;
 }
 
 .width1{
@@ -90,4 +94,24 @@ footer{
     text-align: center;
     height: 120px;
     padding-top: 20px;
+}
+.bonus-item{
+    display: flex;
+    margin-top: 120px;
+}
+.headline{
+    text-align: center;
+    margin-top: 120px;
+    padding: 0;
+    margin: 0;
+}
+.fix-news{
+    width: 30%;
+    box-shadow: 10px 30px 20px rgb(236, 195, 195);
+    padding-left: 3%;
+    border-radius: 40px;
+    padding-top: 3%;
+    margin-left: 3%;
+    border: 6px solid rgb(231, 141, 141);
+    background-image: linear-gradient(rgb(216, 99, 99), whrgb(49, 39, 39)
 }
